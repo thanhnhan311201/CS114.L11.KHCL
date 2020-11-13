@@ -4,11 +4,11 @@
 ![](/Screenshots/img.jpg)
 
 ## Thông tin nhóm:
-
+![](/Screenshots/anh-nhom-JPEG.jpg)
 Nhóm: 1
 
 Số thành viên: 3
-![](/Screenshots/nhom01.jpg)
+
 #### Thành viên 1:
 - **Tên**: Phan Nguyễn Thành Nhân
 - **MSSV**: 19521943
