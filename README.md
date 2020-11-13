@@ -4,7 +4,9 @@
 ![](/Screenshots/img.jpg)
 
 ## Thông tin nhóm:
-![](/Screenshots/IMG_0221.HEIC)
+
+![](/Screenshots/nhom1.jpg)
+
 Nhóm: 1
 
 Số thành viên: 3
