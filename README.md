@@ -8,7 +8,7 @@
 Nhóm: 1
 
 Số thành viên: 3
-![](/Screenshots/img.png)
+![](/Screenshots/nhom01.jpg)
 #### Thành viên 1:
 - **Tên**: Phan Nguyễn Thành Nhân
 - **MSSV**: 19521943
