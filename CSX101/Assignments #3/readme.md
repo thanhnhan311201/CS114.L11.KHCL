@@ -1,5 +1,6 @@
 # DANH SÁCH CÁC BÀI TẬP ASSIGNMENTS 3
 >1. fast.power: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Assignments%20%233/fast_power.ipynb>
+>2. Cuộc đua của nhà vua: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Assignments%20%233/CuocDuaCuaNhaVua.ipynb>
 >3. Số điện thoại: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Assignments%20%233/SoDienThoai.ipynb>
 >4. Trộm laptop: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Assignments%20%233/TromLaptop.ipynb>
 >5. Chuỗi bằng nhau: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Assignments%20%233/ChuoiBangNhau.ipynb>
