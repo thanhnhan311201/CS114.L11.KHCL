@@ -1,4 +1,4 @@
-#DANH SÁCH CÁC BÀI TẬP ASSIGNMENTS 2
+# DANH SÁCH CÁC BÀI TẬP ASSIGNMENTS 2
 >1. Kéo cắt giấy: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Asignments%20%232/KeoCatGiay.ipynb>
 >2. Số gần như may mắn: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Asignments%20%232/SoGanNhuMayMan.ipynb>
 >3. Ma trận cốt lỗi: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Asignments%20%232/MaTranCotLoi.ipynb>
