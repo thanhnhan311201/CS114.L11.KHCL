@@ -4,6 +4,7 @@
 ![](/Screenshots/img.jpg)
 
 ## Thông tin nhóm:
+![](/Screenshots/anh-nhom-JPEG.jpg)
 Nhóm: 1
 
 Số thành viên: 3
