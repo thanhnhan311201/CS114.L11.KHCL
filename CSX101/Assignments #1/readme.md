@@ -1,4 +1,4 @@
-# DANH SÁCH CÁC BÀI TẬP ASSIGNMENT 1
+# DANH SÁCH CÁC BÀI TẬP ASSIGNMENTS 1
 >1. Thang đo nhiệt độ KFC: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Asignments%20%231/ThangDoNhietDoKFC.ipynb>
 >2. Độ đo áp suất SI/PSI: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Asignments%20%231/DoDoApSuatSI-PSI.ipynb>
 >3. Gà và chó: <https://github.com/thanhnhan311201/CS114.L11.KHCL/blob/master/CSX101/Asignments%20%231/GaVaCho.ipynb>
