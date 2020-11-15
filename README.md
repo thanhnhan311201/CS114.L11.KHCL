@@ -3,11 +3,11 @@
 ## Machine Learning Repository
 ![](/Screenshots/img.jpg)
 ### 1. CSX101 - Lập trình Python (Wecode)
-- Assignment 1
-- Assignment 2
-- Assignment 3
-- Assignment Con Trỏ Trong Python
-- Assignment Cấu Trúc Dữ Liệu
+- Assignments 1
+- Assignments 2
+- Assignments 3
+- Assignments Con Trỏ Trong Python
+- Assignments Cấu Trúc Dữ Liệu
 ### 2. LinearRegression - Tổng hợp kiến thức về Linear Regression
 - Lý Thuyết: Tóm tắt lý thuyết về Linear Regression
 - Thực hành: Một số bài tập thực hành về Linear Regression
