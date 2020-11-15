@@ -1,1 +1,1 @@
-# Lý thuyết tổng hợp lại những kiến thức về Linear Regression
+# Tổng hợp lại những kiến thức về Linear Regression
