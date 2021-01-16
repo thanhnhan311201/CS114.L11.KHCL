@@ -1,0 +1,9 @@
+	Chuyển ảnh sang nhị phân
+https://colab.research.google.com/drive/1I-mkW9rAJVO5dm2mVduNdqBc5A_VonHL?usp=sharing
+	SVC_RBF_C5-10
+https://colab.research.google.com/drive/1asMRNHDwmVggtMbbGFwCUM6pEYEllmVj?usp=sharing
+	SVC_poly
+https://colab.research.google.com/drive/1IQLNCck8QixpKYBPRZuRPQ9mBFM7kw0Y?usp=sharing
+	KNN
+https://colab.research.google.com/drive/1C6CEVSQhU8Vw9hO9oqfdfcLdnOK2ILiV?usp=sharing
+https://colab.research.google.com/drive/1osHekCnNbZeyi105yJ-UyizcG9Vnv5k5?usp=sharing
