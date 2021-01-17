@@ -7,3 +7,9 @@ https://colab.research.google.com/drive/1IQLNCck8QixpKYBPRZuRPQ9mBFM7kw0Y?usp=sh
 	KNN
 https://colab.research.google.com/drive/1C6CEVSQhU8Vw9hO9oqfdfcLdnOK2ILiV?usp=sharing
 https://colab.research.google.com/drive/1osHekCnNbZeyi105yJ-UyizcG9Vnv5k5?usp=sharing
+	SVC_bin
+https://colab.research.google.com/drive/1omsz-PfpiUCVbAg2LZhbfnk7etA3h0X9?usp=sharing
+	Logicstics Regression CV
+https://colab.research.google.com/drive/14F2XePwFnp8N3Lkw-JBbJKJZQ20JImzy?usp=sharing
+	NaiveBayes
+https://colab.research.google.com/drive/1WBILo6BtIkf3pp4FJbTHF9omWSg69Icx?usp=sharing
