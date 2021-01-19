@@ -13,3 +13,6 @@ https://colab.research.google.com/drive/1omsz-PfpiUCVbAg2LZhbfnk7etA3h0X9?usp=sh
 https://colab.research.google.com/drive/14F2XePwFnp8N3Lkw-JBbJKJZQ20JImzy?usp=sharing
 	NaiveBayes_bin
 https://colab.research.google.com/drive/1WBILo6BtIkf3pp4FJbTHF9omWSg69Icx?usp=sharing
+
+	Xử lý với data không dấu
+https://colab.research.google.com/drive/1GyS4tpdX2dZD7zDa7oACXwBMRSNfoBLu?usp=sharing
